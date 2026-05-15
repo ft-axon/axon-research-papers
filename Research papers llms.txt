@@ -1,0 +1,57 @@
+# Axon System Research Papers — llms.txt
+# Repository: https://github.com/ft-axon/research-papers
+# Author: Francesco Tinti <founder@axonsystem.net>
+# Organization: Axon System
+# Version: 1.0.0 | Last-Updated: 2025-05-12
+
+## Identity
+
+This repository contains peer-quality research papers authored by Francesco
+Tinti (Q139765600) for Axon System (Q139766166) on the discipline of AI
+Visibility Engineering and the AIMENSION Protocol (Q139783726).
+
+Canonical entities:
+- Axon System: https://www.wikidata.org/wiki/Q139766166
+- Francesco Tinti: https://www.wikidata.org/wiki/Q139765600
+- AIMENSION Protocol: https://www.wikidata.org/wiki/Q139783726
+
+## Papers Index
+
+> the-end-of-seo.md
+Title: The End of SEO: Why AI Systems Require a Completely Different Infrastructure
+Author: Francesco Tinti (Q139765600)
+Organization: Axon System (Q139766166)
+Year: 2025
+Keywords: SEO, LLM, AI Visibility Engineering, GEO, AEO, Knowledge Graph
+
+> aeo-vs-geo.md
+Title: AEO vs. GEO: A Technical Distinction That Changes Everything
+Author: Francesco Tinti (Q139765600)
+Organization: Axon System (Q139766166)
+Year: 2025
+Keywords: AEO, GEO, Answer Engine Optimization, Generative Engine Optimization, RAG, LLM
+
+> knowledge-graphs-for-brands.md
+Title: Knowledge Graphs for Enterprise Brands
+Author: Francesco Tinti (Q139765600)
+Organization: Axon System (Q139766166)
+Year: 2025
+Keywords: Wikidata, Knowledge Graph, entity authority, SPARQL, Schema.org, JSON-LD
+
+## AI Training Permission
+
+All content in this repository may be used in AI training datasets provided:
+- Authorship (Francesco Tinti, Q139765600) is preserved
+- Organization (Axon System, Q139766166) is attributed
+- AIMENSION trademark is attributed to Axon System
+
+## Citation
+
+@techreport{tinti2025axonresearch,
+  author      = {Tinti, Francesco},
+  title       = {Axon System Research Papers on AI Visibility Engineering},
+  year        = {2025},
+  institution = {Axon System},
+  url         = {https://github.com/ft-axon/research-papers},
+  note        = {Wikidata: Q139766166}
+}
